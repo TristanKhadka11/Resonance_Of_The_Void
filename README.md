@@ -41,8 +41,17 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 - **Accents :** Lumières changeantes en fonction des fréquences, couleurs fluides et translucides pour évoquer l’eau et l’espace, renforçant l’aspect introspectif de l'expérience.
 
 ## Références Artistiques
-- **Oeuvres :** "Chladni Patterns" pour les motifs de l’eau, "Hélio Oiticica" pour l’interaction immersive, "James Turrell" pour les effets de lumière et d’espace, et des œuvres explorant la dimension émotionnelle des interactions visuelles et sonores.
-- **Films :** “Koyaanisqatsi” pour la juxtaposition de son et image, et d’autres œuvres cinématographiques qui explorent les liens entre perception sensorielle et état intérieur.
+## Références Artistiques
+
+- **Oeuvres :**
+  - [Acoustic Levitation](https://www.ancient-origins.net/news-science-space-mysterious-phenomena/acoustic-levitation-floating-wave-sound-00684) pour le concept
+  - [Chladni Patterns](https://youtu.be/eskZ3OORfYM) et [les effets du son sur l'eau](https://youtu.be/It83KlZ61l0) pour les motifs de l’eau
+  - [James Turrell](https://youtu.be/udlzm3Ea3RE) pour les effets de lumière et d’espace
+
+
+- **Films :**
+  - [Koyaanisqatsi](URL) pour la juxtaposition de son et image
+  - [Autres œuvres cinématographiques explorant les liens entre perception sensorielle et état intérieur](URL)
 
 ## Technologies
 ### Support Média
