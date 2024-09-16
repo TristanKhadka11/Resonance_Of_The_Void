@@ -59,12 +59,7 @@ L'idée de fusionner art et science à travers l’acoustique et la visuelle per
 - **Audio :** Logiciels pour le traitement audio en temps réel et la gestion des paysages sonores.
 - **Réseautage et Communication :** Protocoles comme OSC ou MIDI pour la communication entre les systèmes de contrôle, les haut-parleurs et les projections.
 
-## Critères d'Évaluation
-- **Clarté de l'Idée :** L’idée est bien structurée, avec une démonstration claire des objectifs et du concept.
-- **Scénarisation Fonctionnelle :** Le scénario interactif et narratif est cohérent et bien détaillé, offrant une compréhension complète des mécanismes narratifs et interactifs.
-- **Cohérence Esthétique :** La planche d’ambiances visuelles et sonores reflète de manière précise l’univers artistique du projet.
-- **Précision Technique :** Les choix technologiques soutiennent efficacement l'idée, avec une intégration adéquate des supports médiatiques et des technologies interactives.
-- **Présentation Générale :** Capacité à communiquer l’idée de manière fluide et professionnelle, en utilisant les supports visuels et techniques de manière efficace.
+
 
 ## Présentation Orale du Document en Ligne
 - **Livrable :** URL du document en ligne à partager pour la présentation complète du projet multimédia.
