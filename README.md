@@ -50,13 +50,13 @@ L'intégration de l'art et de la science à travers l'acoustique et la visualisa
 
 
 - **Films :**
-  - [Koyaanisqatsi](URL) pour la juxtaposition de son et image
-  - [Autres œuvres cinématographiques explorant les liens entre perception sensorielle et état intérieur](URL)
+  - [Koyaanisqatsi](https://www.youtube.com/watch?v=BRItSHelLr4) pour la juxtaposition de son et image
+
 
 ## Technologies
 ### Support Média
 - **Audio :** Haut-parleurs à haute fidélité pour diffuser les fréquences et créer un paysage sonore immersif, avec un accent sur l'impact émotionnel des sons.
-- **Vidéo :** Projections interactives sur des écrans incurvés pour visualiser les effets des fréquences et renforcer la connexion entre science et émotion.
+- **Vidéo :** Projections interactives sur les murs pour visualiser les effets des fréquences sur les émotions et renforcer la connexion entre science et émotion.
 - **Lumières :** LEDs programmables pour ajuster l’éclairage en fonction des fréquences et des interactions, enrichissant l’expérience émotionnelle et sensorielle.
 
 ### Matériel
