@@ -1,7 +1,7 @@
-# Resonance of the Void
+# La résonance du vide
 
 ## Idée
-“Resonance of the Void” est une installation artistique immersive qui explore les effets visuels et sonores de la lévitation acoustique, tout en invitant les participants à une introspection personnelle. Les visiteurs interagissent avec une table de contrôle pour modifier la fréquence des ondes sonores, observant les effets sur l'eau et l'environnement sonore, tout en étant encouragés à explorer les répercussions émotionnelles de ces interactions.
+“La résonance du vide” est une installation artistique immersive qui explore les effets visuels et sonores de la lévitation acoustique, tout en invitant les participants à une introspection personnelle. Les visiteurs interagissent avec une table de contrôle pour modifier la fréquence des ondes sonores, observant les effets sur l'eau et l'environnement sonore, tout en étant encouragés à explorer les répercussions émotionnelles de ces interactions.
 
 ## Concept
 L'installation utilise la lévitation acoustique pour démontrer comment les fréquences modifient les motifs dans l'eau et influencent un environnement sonore et visuel. Ce concept allie science et art pour offrir une exploration sensorielle des interactions entre les ondes sonores et la matière. En fin de compte, l'expérience conduit les visiteurs à réfléchir sur l'impact des fréquences non seulement sur les objets physiques mais aussi sur leur propre état émotionnel.
